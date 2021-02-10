@@ -23,7 +23,7 @@ description: "Agency Bootstrap theme converted to a Jekyll theme, plus new featu
 author     : Your Name
   logo: assets/img/clients/LabLogoSm.PNG    #optional, defaults to site title
     #path:
-    height: 60 #height in px, defaults to 52px
+    height: 80 #height in px, defaults to 52px
 
 analytics:
   google: #Google Analytics tracking code here
