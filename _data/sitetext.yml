@@ -96,10 +96,10 @@ timeline:
 facility:
     title: "About Us"
     text: "our story"
-    section: about
+    section: facility
 
 courses:
-    section: clients
+    section: courses
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
