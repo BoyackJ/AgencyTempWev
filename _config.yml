@@ -22,9 +22,9 @@ email      : your-email@example.com #this is also the email contact forms will g
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 author     : Your Name
 logo:    #optional, defaults to site title
-  path: ./assets/img/clients/LabLogoTiny.png #creative-market.jpg
-  width: 80
-  height: 35 #height in px, defaults to 52px
+  path: ./assets/img/clients/LabLogoSm.png #creative-market.jpg
+  width: 144
+  height: 60 #height in px, defaults to 52px
 
 analytics:
   google: #Google Analytics tracking code here
